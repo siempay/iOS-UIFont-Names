@@ -1,10 +1,6 @@
 # UIFont Complete list preview for iOS 13.3
-<br /><br />
 
 > You can dowload the file from the project !
-
-
-<br /><br /><br />
 
 ```swift
 
